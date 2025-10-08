@@ -65,4 +65,4 @@ PWM 기반 모터 제어와 FSM 설계를 통해 실제 전자레인지 동작(�
 
 
 ## 동작 영상
-<video controls src="microwave.mp4" title="Title"></video>
+![alt text](microwave.gif)
